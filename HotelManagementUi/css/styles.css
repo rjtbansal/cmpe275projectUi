@@ -27,9 +27,26 @@
         height: 550px;
     }
 
+    /*for checkInGuest.html*/
+    .checkInGuest{
+        border-radius: 20px;
+        width:70%;
+        margin:0 auto;
+        height:auto;
+    }
+
 
 /*global css*/
-.clear{
-    clear: both;
-}
+    .clear{
+        clear: both;
+    }
+
+    .h3Heading{
+        padding-bottom: 10px;
+    }
+
+    .clearWithBorder{
+        border-bottom: solid;
+    }
+
 

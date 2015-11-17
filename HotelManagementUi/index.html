@@ -91,4 +91,19 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 
+<script>
+
+    /*for service agent login*/
+    $("#login").click(function(){
+        /*hardcoding username and password just for the testing purpose*/
+        var username=$("#username").val();
+        var password=$("#password").val();
+        console.log(username+" "+password);
+        if(username === "rajat" && password=="rajat"){
+            location.href="serviceAgentMain.html";
+        }
+
+    });
+
+</script>
 </html>
