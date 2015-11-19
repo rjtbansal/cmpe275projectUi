@@ -28,7 +28,7 @@
     }
 
     /*for checkInGuest.html*/
-    .checkInGuest .checkOutGuest{
+    .checkInGuest .checkOutGuest .resForGuest{
         border-radius: 20px;
         width:70%;
         margin:0 auto;
