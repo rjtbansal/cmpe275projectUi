@@ -24,7 +24,7 @@
     }
 
     #reserveRoom{
-        height: 550px;
+        height: auto;
     }
 
     /*for checkInGuest.html*/
