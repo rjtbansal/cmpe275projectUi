@@ -28,12 +28,14 @@
     }
 
     /*for checkInGuest.html*/
-    .checkInGuest{
+    .checkInGuest .checkOutGuest{
         border-radius: 20px;
         width:70%;
         margin:0 auto;
         height:auto;
     }
+
+
 
 
 /*global css*/
